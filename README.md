@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Robert Mah
+ 
+I like to: Play hockey and go for long hikes in the forest.
 
-I like to:
-
-I'm learning:
+I'm learning: How to code for a possible change in career. I'm also going to try to find time to learn how bjj.
 
 ```
 
